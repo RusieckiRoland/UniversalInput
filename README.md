@@ -1,5 +1,7 @@
 # UniversalInput.Contracts
 
+[![CI](https://github.com/RusieckiRoland/UniversalInput/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/RusieckiRoland/UniversalInput/actions/workflows/ci.yml)
+
 Platform-neutral .NET input and interaction contracts for reusable components.
 PhialeTech and PhialeGis consume the same package; this library does not depend
 on either product or on a UI framework. Target: `netstandard2.0`.
