@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/UniversalInput.Contracts/UniversalInput.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/UniversalInput.Contracts.Tests/UniversalInput.Contracts.Tests.csproj" />
+  </Folder>
+</Solution>

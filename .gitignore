@@ -1,0 +1,27 @@
+# .NET / Visual Studio outputs (including copied WSL builds)
+**/[Bb]in/
+**/[Oo]bj/
+**/wsl_obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+**/TestResults/
+**/coverage/
+coverage.*
+*.coverage
+*.coveragexml
+**/artifacts/
+**/packages/
+*.nupkg
+*.snupkg
+*.trx
+*.log
+# Local credentials and machine configuration
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key

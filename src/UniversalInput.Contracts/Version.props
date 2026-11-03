@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <UniversalInputVersion>3.0.0-preview.3</UniversalInputVersion>
+  </PropertyGroup>
+</Project>
