@@ -10,7 +10,7 @@ on either product or on a UI framework. Target: `netstandard2.0`.
 <PackageReference Include="UniversalInput.Contracts" Version="3.0.0-preview.3" />
 ```
 
-This preview is prepared locally. Public availability on nuget.org is not implied.
+This is a preview release. Public APIs may change before the stable release.
 Configure a feed containing the package before restoring a consumer.
 
 ## Use
